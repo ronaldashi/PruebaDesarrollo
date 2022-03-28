@@ -1,0 +1,8 @@
+1. Seleccionar la base de datos "Hotel" en este caso fue usada con MySQL Workbench
+
+el archivo SQL consultas, fue realizada para demostrar el funcionamiento de las tareas puestas en el punto B del documento
+Prueba de ingeniero desarrollo, en el cual tambien se desarrollaron los demas puntos establecidos.
+
+2. Copiar la prueba en htdocs para su mejor funcionamiento
+
+Gracias buen dia!
